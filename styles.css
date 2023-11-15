@@ -1,0 +1,18 @@
+.navbar {
+    background-color: #659ad0;
+}
+
+.navbar-brand {
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.navbar-brand p {
+    font-size: small;
+}
+
+.nav-item {
+    margin-left: 10px;
+    margin-right: 10px;
+}
